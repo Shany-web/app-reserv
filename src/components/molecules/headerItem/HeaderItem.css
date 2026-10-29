@@ -1,0 +1,16 @@
+.item-primary {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.header-item-icon {
+  margin-top: 10px;
+}
+
+.item-secondary{
+   display: flex;
+   color: white;
+}
+
+

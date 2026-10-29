@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.desc-service {
+  text-align: center;
+  padding: 15px 0px;
+}
+
+.desc-service :first-child {
+  color: #d9567e;
+  font-size: 12px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.gallery-btn {
+  justify-self: center;
+  margin: 15px 0px;
+}
+
+.client-testimony {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-top: -10px;
+}
+
+.client-testimony :first-child {
+  color: #d9567e;
+  font-size: 12px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

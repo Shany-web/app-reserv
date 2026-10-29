@@ -1,0 +1,43 @@
+.container {
+  width: 95%;
+  height: 100%;
+  margin: auto;
+}
+
+.description {
+  padding: 15px 0px;
+  background-size:cover;
+  background-position: center 85%;
+  background-repeat: no-repeat;
+}
+
+.p1 {
+  color: rgb(226, 126, 142);
+}
+
+.desc-h1 h1:nth-child(2) {
+  color: rgb(226, 126, 142);
+}
+
+.desc-h1 {
+  margin: 15px 0px;
+}
+
+.desc-p {
+  margin: 20px 0px;
+}
+
+.btn {
+  gap: 20px;
+  margin: 15px 0px;
+}
+
+.btn :first-child {
+  margin-right: 15px;
+}
+
+.icono {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 10px;
+}

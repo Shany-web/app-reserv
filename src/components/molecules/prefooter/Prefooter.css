@@ -1,0 +1,30 @@
+.prefoot img {
+  width: 150px;
+}
+
+.prefoot {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  background-color: rgb(226, 126, 142);
+}
+
+.button {
+    color: white;
+    border: 1px solid white;
+}
+
+.desc {
+  color: white;
+  padding-top: 15px;
+}
+
+.desc h3 {
+  padding-bottom: 15px;
+}
+
+.phone {
+  display: flex;
+  color: white;
+  margin-right: 15px;
+}

@@ -1,0 +1,22 @@
+.paragraph {
+  margin: 0;
+  color: inherit;
+  line-height: 1.4;
+}
+
+.paragraph--sm {
+  font-size: 12px;
+}
+.paragraph--md {
+  font-size: 16px;
+}
+.paragraph--lg {
+  font-size: 20px;
+}
+
+.paragraph--normal {
+  font-weight: 400;
+}
+.paragraph--semibold {
+  font-weight: 600;
+}

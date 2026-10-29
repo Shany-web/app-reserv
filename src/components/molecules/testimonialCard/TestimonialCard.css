@@ -1,0 +1,29 @@
+.testimony img {
+  width: 37px;
+  border-radius: 50px;
+}
+
+.rating {
+  display: flex;
+}
+
+.img-name {
+  display: flex;
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.name-city p {
+  color: rgb(98, 96, 96);
+}
+
+.icon-color {
+  color: pink;
+}
+
+.testimony {
+  width: 70%;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}

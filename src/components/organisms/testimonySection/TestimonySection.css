@@ -1,0 +1,6 @@
+.testimony-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 5px;
+  margin-bottom: 25px;
+}
